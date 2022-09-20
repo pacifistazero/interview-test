@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "TestTests.testIntersect():TestTests.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TestTests.testPlusOne():TestTests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "result[i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestTests.testSingleNumber():TestTests.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TestTests.testTwoSum():TestTests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "target - num">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestTests.testTwoSum_WithSet():TestTests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dict[11]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestTests.testTwoSum_():TestTests.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TestTests.testMaxProfit():TestTests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "prices[i-1]">
+            </PersistentString>
+            <PersistentString
+               value = "prices[i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
